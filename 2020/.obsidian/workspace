@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "494a821a0b204922",
+    "type": "split",
+    "children": [
+      {
+        "id": "beb04dc713d66810",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "last class devec - civil society.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca26e580d87030c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1497eff1ba77a4fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b29984cdb5d5f0e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b8e81ffb7303260",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0e703e3238a0364b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4c9c595c191eff0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "12f14a1c9ba6bc16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61d2ce16843ddbbe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "last class devec - civil society.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23afd930a788d558",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "bb8b3ed31e9c9e24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "last class devec - civil society.md"
+              }
+            }
+          },
+          {
+            "id": "9bc5a2bebbb80db8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "last class devec - civil society.md",
+    "Untitled 1.md",
+    "recap 1 tahun boe.md",
+    "Untitled.md",
+    "how the digital economy can take indonesia out of the mit.md",
+    "uni/progressa.md",
+    "tweets.md",
+    "2020-10-24.md",
+    "tweets/back and forth about why life skills isn't taught in school with miftah.md",
+    "tweets/a look back on why the fuck i went to uni and i think it might be me looking for authority.md"
+  ]
+}

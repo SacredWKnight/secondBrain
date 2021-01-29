@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "9c65dca72e55aff6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a04fd9f7573b8c3",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "79545a9464956993",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "thoughts on GMS STONKS.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e91c0612ca9fa075",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d5cd9179da4d94d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d332d40a9ea73c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0477bcdfb5c7a968",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c7f72703698e99a7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270
+  },
+  "right": {
+    "id": "d8c746eef82f6555",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3d749f98e21af1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ad893b2eb05ffea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "thoughts on GMS STONKS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b435800ccc75da74",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "thoughts on GMS STONKS.md"
+              }
+            }
+          },
+          {
+            "id": "ff5f929c3f9e11f0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297
+  },
+  "lastOpenFiles": [
+    "Untitled.md",
+    "2021/2021-01-29.md",
+    "2021-tweets.md",
+    "future - ketua bem ui.md",
+    "bem ui prophecy tweet.md",
+    "needs bars like in the sims.md",
+    "manifesto.md",
+    "2021/2021-01-28.md",
+    "2021/2021-01-27.md",
+    "rationality is just a game.md"
+  ]
+}
