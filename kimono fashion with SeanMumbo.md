@@ -1,4 +1,4 @@
-# [[kimono fashion]] with [[seanmombo]]
+# [[kimono batik project|kimono fashion]] with [[@SeanMombo]]
 https://twitter.com/nobu_hibiki/status/1346133821058469889?s=20
 
 ___

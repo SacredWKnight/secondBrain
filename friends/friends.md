@@ -12,7 +12,7 @@ no where near extensive, just people i feel have enough "things" to document abo
 - [[tasya]]
 
 ### Ingroup (mutual)
-- [[seanmombo]]
+- [[@SeanMombo]]
 - [[honjo]]
 - [[aeras alum]]
 - [[nerdposterino]] 

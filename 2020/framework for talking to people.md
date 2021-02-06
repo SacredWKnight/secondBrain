@@ -13,6 +13,6 @@ https://twitter.com/nobu_hibiki/status/1319145824018837504?s=20
 - Test the model
 - Ask questions governed by it.
 
-Based on [[seanmombo]] tweet https://twitter.com/AskYatharth/status/1319011642580082696?s=20
+Based on [[@SeanMombo]] tweet https://twitter.com/AskYatharth/status/1319011642580082696?s=20
 ___
 [[2020-tweets]]

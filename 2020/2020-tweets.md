@@ -5,7 +5,21 @@ Sorted by time
 
 Shit didn't get them all. Most are either at @nobu_hibiki_archive or early on in [[@nobu_hibiki]]
 
-#### October 2020
+#### December
+- [[not enough mental bankruptcies]] - https://twitter.com/nobu_hibiki/status/1338411790103883783?s=20
+- [[my ears have biorhythm]] - https://twitter.com/nobu_hibiki/status/1338394197892579334
+- [[terrible mood state waiting for a call from a friend]] - https://twitter.com/nobu_hibiki/status/1338321426802065408
+- [[i was raised in a conservative family huh]] - https://twitter.com/nobu_hibiki/status/1337864517456285696
+- [[feeling my jimies listening to txt fairy of shampoo]] - https://twitter.com/nobu_hibiki/status/1337861396508229632
+- [[my fetish is ambitious girls]] - https://twitter.com/nobu_hibiki/status/1337858663763984384
+- [[post laundry thoughts, confessing to my crush in the cafeteria]] - https://twitter.com/nobu_hibiki/status/1337369071931719680?s=20
+- [[first time feeling truly disappointed with myself]] - https://twitter.com/nobu_hibiki/status/1337119294438588416?s=20
+- [[missing the christmas sensation]] - https://twitter.com/nobu_hibiki/status/1336242204159791104?s=20
+- [[perfect world that is twitter roleplay]] - https://twitter.com/nobu_hibiki/status/1335871618191540226
+- [[lost the account made me realize nothing is forever]] - https://twitter.com/nobu_hibiki/status/1335861831978557440
+- [[fresh account at @nobu_hibiki]] - https://twitter.com/nobu_hibiki/status/1335856750071693314
+
+#### October
 - [[anti-dating thoughts and a lot more with sean mombo]] - https://twitter.com/nobu_hibiki/status/1319695444973219842?s=20
 - [[nct u make a wish review]] - https://twitter.com/nobu_hibiki/status/1319172325019840513?s=20
 - [[framework for talking to people]]- https://twitter.com/nobu_hibiki/status/1319145824018837504?s=20
@@ -27,7 +41,7 @@ Shit didn't get them all. Most are either at @nobu_hibiki_archive or early on in
 - [[hate writing on paper]] - https://twitter.com/nobu_hibiki/status/1313021815489347584?s=20
 - [[one of my inner demons, how I feel like an lying to myself and like I'm lying all the time]] - https://twitter.com/nobu_hibiki/status/1314201180688375808?s=20
 
-#### September 2020
+#### September
 - [[inequality, power, and improvement from the shared image of eastern fiction]] https://twitter.com/nobu_hibiki/status/1311122243389333504?s=20
 - [[does a horizontal heirarchy exist]] - https://twitter.com/nobu_hibiki/status/1310782554627166213?s=20
 - [[futuristic wuxia is rad as fuck]] - https://twitter.com/nobu_hibiki/status/1309108451260366849?s=20
@@ -37,7 +51,7 @@ Shit didn't get them all. Most are either at @nobu_hibiki_archive or early on in
 - [[listening to music that defined the start of uni]] - https://twitter.com/nobu_hibiki/status/1305160848487231488?s=20
 - [[sound of music review]] - https://twitter.com/nobu_hibiki/status/1306644499519606784?s=20
 
-#### August 2020
+#### August
 - [[my relationship with music]] - https://twitter.com/nobu_hibiki/status/1290646271787769857?s=20
 - [[vtuber historian over at nijisanji]] - https://twitter.com/nobu_hibiki/status/1292388384892051463?s=20
 - [[The difference between love and cinta in the indonesian language]] - https://twitter.com/nobu_hibiki/status/1294940354001563649?s=20

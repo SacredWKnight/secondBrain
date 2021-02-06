@@ -2,7 +2,28 @@
 [[tweets]]
 Sorted by time
 
+### February:
+- [[marimashita clips]] - https://twitter.com/nobu_hibiki/status/1357476023302905860?s=20
+- [[mums sewing machine check]] - https://twitter.com/nobu_hibiki/status/1357463981003165697?s=20
+- [[learning how to sew a hole]] - https://twitter.com/nobu_hibiki/status/1357440898594840576?s=20
+- [[opinions™ about AACSB]] - https://twitter.com/nobu_hibiki/status/1357401640911872001?s=20
+- [[replacement for school w @metakuna]] - https://twitter.com/nobu_hibiki/status/1357081080667336705?s=20
+- [[feeling feelings about posting anime]] - https://twitter.com/nobu_hibiki/status/1357019128540712966?s=20
+- [[I WANT A GIRLFRIEND AAAAAAAAAAA]] - https://twitter.com/nobu_hibiki/status/1356675622471311361?s=20
+- [[be blues masterpost]] - https://twitter.com/nobu_hibiki/status/1356670295780691968?s=20
+- [[got mad bcz mum keep interruptingmy ritual]] - https://twitter.com/nobu_hibiki/status/1356656866839859200?s=20 
+- [[i wanna be small time investor for frends]] - https://twitter.com/nobu_hibiki/status/1356399804683718656?s=20
+- [[grind my teeth hearing non japanese speak japanese]] - https://twitter.com/nobu_hibiki/status/1356367915201613825?s=20
+- [[3x3 favorite manga]] - https://twitter.com/nobu_hibiki/status/1356333985622683649?s=20
+- [[reading dad with daughter srank manga]] - https://twitter.com/nobu_hibiki/status/1356292507726880768?s=20
+- [[will be weird once have gf]] https://twitter.com/nobu_hibiki/status/1356282421205876742?s=20
+
 ### January:
+- [[weird homo harry potter dream]] - https://twitter.com/nobu_hibiki/status/1355854753947807745?s=20
+- [[english breakfast cooking time]] - https://twitter.com/nobu_hibiki/status/1355675046665089029?s=20
+- [[january recap tweet]] - https://twitter.com/nobu_hibiki/status/1355660837420064770?s=20
+- [[need to think of myself as an artist]] - https://twitter.com/nobu_hibiki/status/1355577675717386243?s=20
+- [[second brain git tweet]] - https://twitter.com/nobu_hibiki/status/1355046029670842380?s=20
 - [[i don't know why i can't sing aku wanita]] - https://twitter.com/nobu_hibiki/status/1354160371997634561?s=20
 - [[bcl aku wanita review]] - https://twitter.com/yudhistirags_/status/1354159209705738240?s=20
 - [[floating home tweet]] - https://twitter.com/nobu_hibiki/status/1354108932382281728?s=20
@@ -30,7 +51,7 @@ Sorted by time
 - [[indonesian account setting up]] - https://twitter.com/yudhistirags_/status/1349717068807999489?s=20
 - [[i like tiktok now]] - https://twitter.com/nobu_hibiki/status/1349283179476107264?s=20
 - [[yoasobi yoru ni kakero review]] - https://twitter.com/nobu_hibiki/status/1348985829453037568?s=20
-- [[january interesting thing]] - https://twitter.com/nobu_hibiki/status/1348980948910497793?s=20
+- [[kairosoft project]] - https://twitter.com/nobu_hibiki/status/1348980948910497793?s=20
 - [[ingroup insecurities]] - https://twitter.com/nobu_hibiki/status/1347965045267828736?s=20
 - [[i kinda feel these deities that makes people do tasks]] - https://twitter.com/nobu_hibiki/status/1347517357615271936?s=20
 - [[usage of i feel and i think a lot]] - https://twitter.com/nobu_hibiki/status/1347504539927150595?s=20

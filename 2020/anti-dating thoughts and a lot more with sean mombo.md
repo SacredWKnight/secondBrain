@@ -1,4 +1,4 @@
-## [[anti-dating thoughts]] and a lot more with [[seanmombo]]
+## [[anti-dating thoughts]] and a lot more with [[@SeanMombo]]
 - anti-dating thoughts: https://twitter.com/SeanMombo/status/1319694841333383169?s=20
 - going through [[tough times]]: https://twitter.com/SeanMombo/status/1319703166347169792?s=20
 - [[confronting fear]] voluntarily: https://twitter.com/SeanMombo/status/1319700913410461696?s=20

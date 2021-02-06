@@ -16,7 +16,7 @@ based on discussion with [[ollybot]] - [[2021-01-17]]
 			- Talk about the process
 				- Both the IRL one and the Digital One
 			- Keep doing things online the way we do things irl
-				- Stop being a [[perfectionist]]
+				- Stop being a [[perfectionism|perfectionist]]
 					- Just Do Stuff - [[2021]]
 			- Cultivate taste
 			- Be true to one self

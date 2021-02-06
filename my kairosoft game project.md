@@ -14,7 +14,7 @@ Important aspect to recreate:
 - Competition
 - Love
 
-[[january-devlog]]
+[[kairosoft-devlog]]
 
 ___
 tags: #
