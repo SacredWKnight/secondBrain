@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "9f78096bd4a6c431",
+        "id": "8f22d5d61ce3f11b",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "not enough mental bankruptcies.md",
+            "file": "macroeconomics - minggu 1.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "not enough mental bankruptcies.md",
+                "file": "macroeconomics - minggu 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "not enough mental bankruptcies.md"
+                "file": "macroeconomics - minggu 1.md"
               }
             }
           },
@@ -108,18 +108,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297
+    "width": 297,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "not enough mental bankruptcies.md",
-    "2020/2020-tweets.md",
-    "my ears have biorhythm.md",
-    "terrible mood state waitinf for a call from a friend.md",
-    "i was raised in a conservative family huh.md",
-    "feeling my jimies listening to txt fairy of shampoo.md",
-    "my fetish is ambitious girls.md",
-    "post laundry thoughts, confessing to my crush in the cafeteria.md",
-    "first time feeling truly disappointed with myself.md",
-    "first time feeling truly dissapointed with myself.md"
+    "macroeconomics - minggu 1.md",
+    "Untitled.md",
+    "kimono batik project.md",
+    "doing 100 things, 100 times.md",
+    "100 experimental ceremonial cocoa.md",
+    "2021.md",
+    "sistem ekonomi - minggu 1.md",
+    "sistem ekonomi.md",
+    "moving checklist.md",
+    "my fetish is ambitious girls.md"
   ]
 }

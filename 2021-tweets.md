@@ -3,6 +3,8 @@
 Sorted by time
 
 ### February:
+- [[i opened a third eye by sewing]] - https://twitter.com/nobu_hibiki/status/1358148972498411523?s=20
+- [[fire force thread]] - https://twitter.com/nobu_hibiki/status/1358098130370138112?s=20
 - [[marimashita clips]] - https://twitter.com/nobu_hibiki/status/1357476023302905860?s=20
 - [[mums sewing machine check]] - https://twitter.com/nobu_hibiki/status/1357463981003165697?s=20
 - [[learning how to sew a hole]] - https://twitter.com/nobu_hibiki/status/1357440898594840576?s=20

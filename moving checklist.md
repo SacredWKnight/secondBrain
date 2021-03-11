@@ -1,0 +1,21 @@
+# Moving Checklist
+- [ ] Semua Baju Celana
+- [ ] Laptop
+- [ ] Handphone
+- [ ] Powerbank
+- [ ] Charger
+	- [ ] Type C
+	- [ ] Micro
+- [ ] Wifi
+- [ ] Mesin Jahit
+	- [ ] Kain
+	- [ ] Kapur
+- [ ] Coklat
+- [ ] Termos
+- [ ] Alat Tulis
+- [ ] Fanny Pack
+- [ ] Jaket (Item & Denim)
+- [ ] Bantal Guling (?)
+- [ ] Masker
+- [ ] Facemask
+- [ ] 

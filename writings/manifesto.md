@@ -44,6 +44,6 @@ Corny as it may seems, I do believe in the phrase *"Believe in your Heart"*, bec
 [[education|Education]], **Logic**, or The True. The center of my youth, shaped through my experience as a [[homeschool|homeschooler]] and a [[self learner]].
 
 ___
-tags: #
+tags: #potentialArticle 
 date of note creation: [[2021-01-24]]
 
